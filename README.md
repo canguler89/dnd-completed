@@ -15,13 +15,3 @@ npm install
 ```
 npm run build
 npm run dev
-```
-
-## Contributing
-
-Add your commit notes to commit.log
-When committing use
-
-```
-git commit -F commmit.log
-```
